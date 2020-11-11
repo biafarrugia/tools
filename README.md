@@ -5,3 +5,4 @@
 <p> <i> Social Media </i>
 <p> <i> Coding </i> 
 <p> <i> Interactivity</i> 
+<p> <i> Dataviz </i>
