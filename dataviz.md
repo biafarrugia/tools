@@ -4,3 +4,4 @@
 <p> Latitude & Longitude: https://apps.europeandatajournalism.eu/app/latlon2map
 <p> Color Brewer (paleta de cores): https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
 <p> Chartio  https://chartio.com/
+<p> Diva-Gis (program for mapping and geographic data analysis) https://www.diva-gis.org/
