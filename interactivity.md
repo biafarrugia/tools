@@ -1,6 +1,6 @@
 <h1> <b> Interactivity </b> </h1>
-<p> Immersive storytelling - <b> https://shorthand.com/
-<p> Polls, Quizzes, Sliders - <b> Playbuzz</b> https://www.playbuzz.com/
+<p> Immersive storytelling -<b> Shorthand </b> https://shorthand.com/
+<p> Polls, Quizzes, Sliders - </b> Playbuzz</b> https://www.playbuzz.com/
 <p> Image maps - <b> Thinglink</b> https://www.thinglink.com/
 <p> Interactive video - <b> Touchcast </b> https://www.touchcast.com/
 <p> Interactive video - <b> Eko Studio </b>https://studio.eko.com/
