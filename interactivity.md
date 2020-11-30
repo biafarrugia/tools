@@ -10,4 +10,4 @@
 <p> Chatbot - <b> IFTTT- </b> https://ifttt.com/
 <p> Chatbot - <b> Dialogflow - </b> https://cloud.google.com/dialogflow/docs/
 <p> Sliders - <b> Juxtapose - </b> https://juxtapose.knightlab.com/
-<p> Ergodic, games - <b> Twinery - http://twinery.org/ </b>
+<p> Ergodic, games - <b> Twinery - </b> http://twinery.org/ 
