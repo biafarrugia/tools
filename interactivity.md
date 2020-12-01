@@ -9,5 +9,6 @@
 <p> Chatbot - <b> Interview - </b> https://interviewjs.io/
 <p> Chatbot - <b> IFTTT- </b> https://ifttt.com/
 <p> Chatbot - <b> Dialogflow - </b> https://cloud.google.com/dialogflow/docs/
+<p> Chatbot - <b> Politibot - </b>   https://politibot.pro/
 <p> Sliders - <b> Juxtapose - </b> https://juxtapose.knightlab.com/
 <p> Ergodic, games - <b> Twinery - </b> http://twinery.org/ 
