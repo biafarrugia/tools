@@ -12,5 +12,5 @@
 <p> Leaflet JS (Open Source Maps) :https://leafletjs.com/
 <p> Meographs (3D Videos):http://www.meograph.com/
 <p> Tripline (maps and lines): https://www.tripline.net/
-  
+<p> Piktochar (Infographics and reports)   https://piktochart.com/
   
