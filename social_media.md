@@ -7,3 +7,4 @@
 <p> <i> Photo / Images </i> - <b> Pixabay: https://pixabay.com/pt/ </b>
 <p> <i> Photo / Images </i> - <b> Adobe Creative Cloud: https://www.adobe.com/uk/creativecloud/stock.html  </b>
    <p><i> Photo and Video </i> <b> Pexels: https://www.pexels.com/pt-br/ </b>
+<p><i> Podcast Edition </i> <b> Headliner: https://www.headliner.app/ </b>
