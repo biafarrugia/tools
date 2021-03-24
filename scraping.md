@@ -2,6 +2,6 @@
 <p> <i> Work bench data:  https://workbenchdata.com/ 
  <p> <i> Scraper wiki: https://scraperwiki.com/
  <p> <i> Outwit: https://www.outwit.com/
-<p> <i> Zyte:scraping e armazenamento em nuvem: https://www.zyte.com/
+<p> <i> Zyte, scraping e armazenamento em nuvem: https://www.zyte.com/
 <p> <i> Scrapy: https://scrapy.org/ 
 
