@@ -9,6 +9,8 @@
 <p> Timeline <b> Dipity - </b> https://www.drupal.org/project/dipity
 <p> Timeline <b> MyHistro - </b> http://dev.myhistro.com/
 <p> Timeline <b> Timerime - </b>  https://timerime.softonic.com/aplicaciones-web
+<p> Timeline <b> Time Graphics - </b> https://time.graphics/pt/
+<p> Timeline <b> Chrono Flo - </b> https://www.chronoflotimeline.com/
 <p> Chatbot - <b> Interview - </b> https://interviewjs.io/
 <p> Chatbot - <b> IFTTT- </b> https://ifttt.com/
 <p> Chatbot - <b> Dialogflow - </b> https://cloud.google.com/dialogflow/docs/
