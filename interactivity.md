@@ -6,6 +6,9 @@
 <p> Interactive video - <b> Eko Studio </b>https://studio.eko.com/
 <p> Interactive maps - <b> Storymap</b> https://storymap.knightlab.com/
 <p> Timeline <b> Timeline - </b> https://timeline.knightlab.com/
+<p> Timeline <b> Dipity - </b> https://www.drupal.org/project/dipity
+<p> Timeline <b> MyHistro - </b> http://dev.myhistro.com/
+<p> Timeline <b> Timerime - </b>  https://timerime.softonic.com/aplicaciones-web
 <p> Chatbot - <b> Interview - </b> https://interviewjs.io/
 <p> Chatbot - <b> IFTTT- </b> https://ifttt.com/
 <p> Chatbot - <b> Dialogflow - </b> https://cloud.google.com/dialogflow/docs/
