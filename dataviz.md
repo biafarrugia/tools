@@ -15,3 +15,5 @@
 <p> Piktochar (Infographics and reports)   https://piktochart.com/
 <p> Observable https://observablehq.com/
 <p> Chart CSS https://chartscss.org/
+<p> Dash https://dash-nba-shot-dists.herokuapp.com/
+<p> Streamlit https://streamlit.io/
