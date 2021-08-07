@@ -17,7 +17,7 @@
 <p> Chart CSS https://chartscss.org/
 <p> Dash https://dash-nba-shot-dists.herokuapp.com/
 <p> Streamlit https://streamlit.io/
-<p> Vev Design https://www.vev.design/
 <p> Information is beautiful: https://informationisbeautiful.net/
 <p> Shorthand: https://shorthand.com/
 <p> Webflow: https://webflow.com/ 
+<p> Visual Vocabulary: https://ft-interactive.github.io/visual-vocabulary/  - explica qual o melhor gráfico para cada situação.
