@@ -21,3 +21,4 @@
 <p> Shorthand: https://shorthand.com/
 <p> Webflow: https://webflow.com/ 
 <p> Visual Vocabulary: https://ft-interactive.github.io/visual-vocabulary/  - explica qual o melhor gráfico para cada situação.
+<p> Icons: https://fontawesome.com/
