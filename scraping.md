@@ -4,6 +4,6 @@
  <p> <i> Outwit: https://www.outwit.com/
 <p> <i> Zyte, scraping e armazenamento em nuvem: https://www.zyte.com/
 <p> <i> Scrapy: https://scrapy.org/ 
- <p> <i> Tags: https://tags.hawksey.info/get-tags/
+ <p> <i> Tags: https://tags.hawksey.info/get-tags/ - Twitter Archiving Google Sheet
 <p> <i> IFTT: https://ifttt.com/
 
